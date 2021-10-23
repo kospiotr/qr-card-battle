@@ -1,0 +1,4 @@
+.player-card {
+    background: radial-gradient(circle, #35a2ff 0%, #014a88 100%);
+    height:calc(50% - 150px); width:300px
+}
